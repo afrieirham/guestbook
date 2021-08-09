@@ -31,4 +31,10 @@ export const comments = [
     username: 'afrieirham',
     date: '2021-07-29T10:16:36Z',
   },
+  {
+    comment:
+      "2nd comment",
+    username: 'afrieirham',
+    date: '2021-08-09T18:09:13Z',
+  },
 ]
